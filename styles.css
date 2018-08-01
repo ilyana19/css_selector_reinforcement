@@ -1,0 +1,15 @@
+.text {
+  color: #f80;
+}
+
+.image_list li {
+  display: inline-block;
+}
+
+#main_nav a:hover {
+  color: ;
+}
+
+header h1 {
+  font-size: 24px;
+}
